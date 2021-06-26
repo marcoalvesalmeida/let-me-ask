@@ -5,7 +5,7 @@
     <img src="src/assets/images/logo.svg" alt="Let me ask Logo" width="135">
   </a>
 
-  <h3 align="center">Let me ask - NLW 06</h3>
+  <h3 align="center">Letmeask - NLW 06</h3>
 </p>
 
 
